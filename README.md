@@ -1,3 +1,3 @@
 ## Poo Alert
 
-Front-end
+React front-end for BEP-20 token price alert service
